@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="9.866547" lon="-83.922184">
+    <name>Estación Cartago</name>
+    <desc>*Avenida 3, Provincia Cartago, Occidental, Ciudadela Murillo, 30102 Costa Rica*
+
+maphub-meta:{"marker-color": "#005e38"}</desc>
+  </wpt>
+  <wpt lat="9.853517" lon="-83.908713">
+    <name>Instituto Tecnológico de Costa Rica</name>
+    <desc>*Calle 15, Provincia Cartago, Dulce Nombre, 30109 Costa Rica*</desc>
+  </wpt>
+  <wpt lat="9.864083" lon="-83.912872">
+    <name>Basílica de Nuestra Señora de Los Ángeles</name>
+    <desc>*Calle 15, Provincia Cartago, Cartago, Los Ángeles, 30101 Costa Rica*
+
+maphub-meta:{"marker-symbol": "church", "marker-color": "#cc1b15"}</desc>
+  </wpt>
+  <wpt lat="9.858779" lon="-83.918631">
+    <name>Estadio José Rafael "Fello" Meza</name>
+    <desc>
+
+maphub-meta:{"label": true}</desc>
+  </wpt>
+  <wpt lat="9.864324" lon="-83.920711">
+    <name>Plaza Mayor</name>
+    <desc>
+
+maphub-meta:{"label": true}</desc>
+  </wpt>
+  <wpt lat="9.866618" lon="-83.922059">
+    <name>Estación de ferrocarril</name>
+    <desc>
+
+maphub-meta:{"label": true}</desc>
+  </wpt>
+  <wpt lat="9.864092" lon="-83.912894">
+    <name>Basílica de los Ángeles</name>
+    <desc>
+
+maphub-meta:{"label": true}</desc>
+  </wpt>
+  <wpt lat="9.853981" lon="-83.908862">
+    <name>Instituto Tecnológico de Costa Rica</name>
+    <desc>
+
+maphub-meta:{"label": true}</desc>
+  </wpt>
+  <trk>
+    <name>Ruta Estación Tren - Basílica</name>
+    <desc>*Ciclovía*
+
+maphub-meta:{"stroke": "#c3a124"}</desc>
+    <trkseg>
+      <trkpt lat="9.866589" lon="-83.921807">
+      </trkpt>
+      <trkpt lat="9.866552" lon="-83.921547">
+      </trkpt>
+      <trkpt lat="9.866509" lon="-83.921229">
+      </trkpt>
+      <trkpt lat="9.866418" lon="-83.920655">
+      </trkpt>
+      <trkpt lat="9.866347" lon="-83.920081">
+      </trkpt>
+      <trkpt lat="9.866137" lon="-83.918483">
+      </trkpt>
+      <trkpt lat="9.865989" lon="-83.917265">
+      </trkpt>
+      <trkpt lat="9.865863" lon="-83.916563">
+      </trkpt>
+      <trkpt lat="9.865823" lon="-83.916241">
+      </trkpt>
+      <trkpt lat="9.865762" lon="-83.915795">
+      </trkpt>
+      <trkpt lat="9.865669" lon="-83.915103">
+      </trkpt>
+      <trkpt lat="9.865591" lon="-83.914599">
+      </trkpt>
+      <trkpt lat="9.865539" lon="-83.914224">
+      </trkpt>
+      <trkpt lat="9.86552" lon="-83.914099">
+      </trkpt>
+      <trkpt lat="9.864703" lon="-83.914199">
+      </trkpt>
+      <trkpt lat="9.864638" lon="-83.913687">
+      </trkpt>
+      <trkpt lat="9.864557" lon="-83.913295">
+      </trkpt>
+      <trkpt lat="9.864155" lon="-83.913327">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Plaza Mayor</name>
+    <desc>*Provincia Cartago, Cartago, 30101 Costa Rica*
+
+maphub-meta:{"fill": "#ffcc00", "polygon": true}</desc>
+    <trkseg>
+      <trkpt lat="9.864003" lon="-83.921158">
+      </trkpt>
+      <trkpt lat="9.864402" lon="-83.921093">
+      </trkpt>
+      <trkpt lat="9.864752" lon="-83.921034">
+      </trkpt>
+      <trkpt lat="9.864708" lon="-83.920753">
+      </trkpt>
+      <trkpt lat="9.864666" lon="-83.920489">
+      </trkpt>
+      <trkpt lat="9.864633" lon="-83.920241">
+      </trkpt>
+      <trkpt lat="9.864376" lon="-83.920287">
+      </trkpt>
+      <trkpt lat="9.864096" lon="-83.920329">
+      </trkpt>
+      <trkpt lat="9.863869" lon="-83.920358">
+      </trkpt>
+      <trkpt lat="9.863923" lon="-83.920753">
+      </trkpt>
+      <trkpt lat="9.864003" lon="-83.921158">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Estadio José Rafael "Fello" Meza Ivancovich</name>
+    <desc>*Estadio*
+
+maphub-meta:{"fill": "#2a4ea1", "polygon": true}</desc>
+    <trkseg>
+      <trkpt lat="9.85783" lon="-83.919576">
+      </trkpt>
+      <trkpt lat="9.859218" lon="-83.919367">
+      </trkpt>
+      <trkpt lat="9.859077" lon="-83.918256">
+      </trkpt>
+      <trkpt lat="9.85761" lon="-83.91843">
+      </trkpt>
+      <trkpt lat="9.85783" lon="-83.919576">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
