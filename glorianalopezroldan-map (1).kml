@@ -1,0 +1,229 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ejercicio 1</name>
+    <description>Puntos, polígonos y línea.</description>
+    <visibility>1</visibility>
+    <open>1</open>
+    <Folder>
+      <name>Ejercicio 1</name>
+      <visibility>1</visibility>
+      <open>1</open>
+      <Placemark>
+        <name>Estación Cartago</name>
+        <description>*Avenida 3, Provincia Cartago, Occidental, Ciudadela Murillo, 30102 Costa Rica*
+
+maphub-meta:{"marker-color": "#005e38"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff385e00</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.922184,9.866547</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Tecnológico de Costa Rica</name>
+        <description>*Calle 15, Provincia Cartago, Dulce Nombre, 30109 Costa Rica*</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.908713,9.853517</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basílica de Nuestra Señora de Los Ángeles</name>
+        <description>*Calle 15, Provincia Cartago, Cartago, Los Ángeles, 30101 Costa Rica*
+
+maphub-meta:{"marker-symbol": "church", "marker-color": "#cc1b15"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ff151bcc</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.912872,9.864083</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruta Estación Tren - Basílica</name>
+        <description>*Ciclovía*
+
+maphub-meta:{"stroke": "#c3a124"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>ff24a1c3</color>
+            <width>4</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <coordinates>-83.921807,9.866589 -83.921547,9.866552 -83.921229,9.866509 -83.920655,9.866418 -83.920081,9.866347 -83.918483,9.866137 -83.917265,9.865989 -83.916563,9.865863 -83.916241,9.865823 -83.915795,9.865762 -83.915103,9.865669 -83.914599,9.865591 -83.914224,9.865539 -83.914099,9.865520 -83.914199,9.864703 -83.913687,9.864638 -83.913295,9.864557 -83.913327,9.864155</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <description>*Provincia Cartago, Cartago, 30101 Costa Rica*
+
+maphub-meta:{"fill": "#ffcc00"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <PolyStyle>
+            <color>8000ccff</color>
+            <fill>1</fill>
+            <outline>1</outline>
+          </PolyStyle>
+          <LineStyle>
+            <color>ff00ccff</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-83.921158,9.864003 -83.921093,9.864402 -83.921034,9.864752 -83.920753,9.864708 -83.920489,9.864666 -83.920241,9.864633 -83.920287,9.864376 -83.920329,9.864096 -83.920358,9.863869 -83.920753,9.863923 -83.921158,9.864003</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Estadio José Rafael "Fello" Meza Ivancovich</name>
+        <description>*Estadio*
+
+maphub-meta:{"fill": "#2a4ea1"}</description>
+        <visibility>1</visibility>
+        <Style>
+          <PolyStyle>
+            <color>80a14e2a</color>
+            <fill>1</fill>
+            <outline>1</outline>
+          </PolyStyle>
+          <LineStyle>
+            <color>ffa14e2a</color>
+            <width>2</width>
+          </LineStyle>
+        </Style>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-83.919576,9.857830 -83.919367,9.859218 -83.918256,9.859077 -83.918430,9.857610 -83.919576,9.857830</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Estadio José Rafael "Fello" Meza</name>
+        <description>
+
+maphub-meta:{"label": true}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.918631,9.858779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <description>
+
+maphub-meta:{"label": true}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.920711,9.864324</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación de ferrocarril</name>
+        <description>
+
+maphub-meta:{"label": true}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.922059,9.866618</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basílica de los Ángeles</name>
+        <description>
+
+maphub-meta:{"label": true}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.912894,9.864092</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instituto Tecnológico de Costa Rica</name>
+        <description>
+
+maphub-meta:{"label": true}</description>
+        <visibility>1</visibility>
+        <Style>
+          <IconStyle>
+            <color>ffd4773c</color>
+            <scale>1.2</scale>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>-83.908862,9.853981</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
